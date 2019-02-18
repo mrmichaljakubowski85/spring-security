@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
-    <file type="web" url="file://$PROJECT_DIR$" />
+    <file type="web" url="file://$PROJECT_DIR$/database" />
+    <file type="web" url="file://$PROJECT_DIR$/in-memory" />
   </component>
   <component name="MavenProjectsManager">
     <option name="originalFiles">
